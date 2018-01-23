@@ -1,2 +1,4 @@
 # basic_portfolio_resp
-Responsive version of NA-Dev/basic_portfolio
+
+# Draft HTML / CSS portfolio with mobile responsiveness added
+# See basic_portfolio_bootstrap for final version
